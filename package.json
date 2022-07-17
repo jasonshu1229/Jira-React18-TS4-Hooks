@@ -47,6 +47,7 @@
   "devDependencies": {
     "@commitlint/cli": "^17.0.3",
     "@commitlint/config-conventional": "^17.0.3",
+    "@types/qs": "^6.9.7",
     "eslint": "^8.19.0",
     "eslint-config-prettier": "^8.5.0",
     "husky": ">=6",
